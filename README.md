@@ -3,7 +3,6 @@
 ## USD Exchange Rate Compared to Other Countires
 
 ![currency_comp](MXN_comparison.png)
-![temp_graph](climate.png)
 
 The Data in this bar graph compares the USD currency to other different currencies. The compared currencies are that of Mexico(MXN), Malaysia(MYR), Norway(NOK), New Zealand(NZD), Panama(PAB), Peru(PEN), and the Philippines(PHP). The graph demonstrates that the value behind different currencies across the world are widely varied. It also demonstrates the value of the $USD compared to other currencies. The data for this plot was found on [CurrencyData](https://api.exchangerate-api.com/v4/latest/USD)
 
