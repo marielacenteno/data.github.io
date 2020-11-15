@@ -1,6 +1,7 @@
 import json
 import matplotlib.pyplot as plt
 import os
+
 '''
 #CURRENCY BAR GRAPH
 #input dictionary of exchange rates in different countries
